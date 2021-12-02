@@ -49,4 +49,4 @@ Space: O(1)
 */
 
 // Answer:
-console.log(numOfDepthIncrease(depths)); // 1195
+console.log(numOfDepthIncrease(depths));

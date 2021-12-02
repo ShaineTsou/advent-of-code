@@ -54,4 +54,4 @@ Space: O(1)
 */
 
 // Answer:
-console.log(numOfSumIncrease(depths)); // 1235
+console.log(numOfSumIncrease(depths));
