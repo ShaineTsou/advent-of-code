@@ -1,4 +1,6 @@
 /* 
+Information of Puzzle Day1 - Part 1: https://adventofcode.com/2021/day/1
+
 Day 1 - Part 1: The Number of Times a Depth Measurement Increases
 - Given an array of non-negative integers representing depth measurements.
 - Return the number of times a depth measurement increases from the immediate previous measurement

@@ -1,4 +1,4 @@
-// DAY 1: Not Quite Lisp
+// Information of Puzzle Day1 - Part 1: https://adventofcode.com/2015/day/1
 
 const fs = require('fs');
 
@@ -38,7 +38,7 @@ getEndPoint();
 // The part1 answer is 138. And my-santa-time is about 0.841ms.
 
 
-// Part 2:
+// Information of Puzzle Day1 - Part 2: https://adventofcode.com/2015/day/1#part2
 // Find the position of the first character that causes him to enter the basement (floor -1). The first character in the instructions has position 1, the second character has position 2, and so on.
 
 const getToBmMoves = () => {

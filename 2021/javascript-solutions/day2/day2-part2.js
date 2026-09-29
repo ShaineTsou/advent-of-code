@@ -1,4 +1,6 @@
 /* 
+Information of Puzzle Day2 - Part 2: https://adventofcode.com/2021/day/2#part2
+
 Day 2 - Part 2: Where am I now with new interpretation of the commands?
 - Given a series of directions, return the product of the final horizontal position and the final depth
   - The input has been organized into an array of direction arrays

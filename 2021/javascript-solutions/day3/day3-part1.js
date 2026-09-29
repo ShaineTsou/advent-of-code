@@ -1,4 +1,6 @@
 /* 
+Information of Puzzle Day3 - Part 1: https://adventofcode.com/2021/day/3
+
 Day 3 - Part 1: What is the power consumption of the submarine?
 - Given a diagnostic report of binary numbers in string, return the power consumption
 - Power consumption is the product of the gamma rate in decimal and the epsilon rate in decimal

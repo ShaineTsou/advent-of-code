@@ -1,4 +1,4 @@
-// Information of Puzzle Day2 - Part 2: https://adventofcode.com/2015/day/2//part2
+// Information of Puzzle Day2 - Part 2: https://adventofcode.com/2015/day/2#part2
 
 // Given a list of the dimensions (length(l), width(w), and hegiht(h)) of each present. (All numbers are in feets)
 // The required ribbon for each present is: 2 * Math.min(l+w, w+h, l+h) + l*w*h

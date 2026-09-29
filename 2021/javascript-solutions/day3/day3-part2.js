@@ -1,4 +1,6 @@
 /* 
+Information of Puzzle Day3 - Part 2: https://adventofcode.com/2021/day/3#part2
+
 Day 3 - Part 2: What is the life support rating of the submarine?
 - Given a diagnostic report of binary numbers in string, return the life support rating
 - Life support rating is the product of the oxygen generator rating in decimal and the CO2 scrubber rating in decimal

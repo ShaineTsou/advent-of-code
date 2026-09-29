@@ -1,4 +1,6 @@
 /* 
+Information of Puzzle Day1 - Part 1: https://adventofcode.com/2021/day/1#part2
+
 Day 1 - Part 2: The Number of Times the sum of measurements Increases
 - Given an array of non-negative integers representing depth measurements
 - Compare the sums of a three-measurement sliding window
